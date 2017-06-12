@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vinceperez.co" resolutions="1x" timestamp="1497242555382">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vinceperez.co" resolutions="1x" timestamp="1497247584949">
   <folder name="images">
     <file name="pigeon-1607316_1920.png" crc="4155405794" seo="true" ref="eyebleed"/>
     <file name="fennel-1311691_960_720.jpg" crc="4211341643" seo="true" ref="eyebleed"/>
@@ -9,8 +9,8 @@
     <file name="iefonts_index.css" crc="394438811" ref="index"/>
     <file name="404.css" crc="54467500" ref="404"/>
     <file name="iefonts_404.css" crc="4111877156" ref="404"/>
-    <file name="eyebleed.css" crc="293506073" ref="eyebleed"/>
-    <file name="iefonts_eyebleed.css" crc="256920682" ref="eyebleed"/>
+    <file name="eyebleed.css" crc="390064506" ref="eyebleed"/>
+    <file name="iefonts_eyebleed.css" crc="3871493957" ref="eyebleed"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:404:eyebleed"/>
@@ -20,7 +20,7 @@
     <file name="jquery.watch.js" crc="437028206" ref="index:404:eyebleed"/>
     <file name="require.js" crc="4159430777" ref="index:404:eyebleed"/>
   </folder>
-  <file name="index.html" crc="4123176180" seo="true" mt="1497206930204" redirect="true"/>
+  <file name="index.html" crc="263111629" seo="true" mt="1497246205915" redirect="true"/>
   <file name="404.html" crc="3877559347" seo="true" mt="1497205970469" redirect="true"/>
-  <file name="eyebleed.html" crc="31697307" seo="true" mt="1497237063926" redirect="true"/>
+  <file name="eyebleed.html" crc="4062457163" seo="true" mt="1497246473400" redirect="true"/>
 </manifest>
