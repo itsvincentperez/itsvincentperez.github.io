@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vinceperez.co" resolutions="1x" timestamp="1497886424230">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vinceperez.co" resolutions="1x" timestamp="1498800912172">
   <folder name="images">
     <file name="pigeon-1607316_1920.png" crc="4155405794" seo="true" ref="eyebleed"/>
     <file name="fennel-1311691_960_720.jpg" crc="4211341643" seo="true" ref="eyebleed"/>
@@ -14,7 +14,7 @@
     <file name="iefonts_eyebleed.css" crc="3871493957" ref="eyebleed"/>
     <file name="books.css" crc="346157659" ref="books"/>
     <file name="iefonts_books.css" crc="3769118336" ref="books"/>
-    <file name="dogs.css" crc="59415013" ref="dogs"/>
+    <file name="dogs.css" crc="260666458" ref="dogs"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:404:eyebleed:books:dogs"/>
@@ -28,5 +28,5 @@
   <file name="404.html" crc="330137914" seo="true" mt="1497886398192" redirect="true"/>
   <file name="eyebleed.html" crc="3905351972" seo="true" mt="1497886392638" redirect="true"/>
   <file name="books.html" crc="436604956" seo="true" mt="1497886413680" redirect="true"/>
-  <file name="dogs.html" crc="4005372390" seo="true" mt="1497886384304" redirect="true"/>
+  <file name="dogs.html" crc="4129768173" seo="true" mt="1498800808320" redirect="true"/>
 </manifest>
