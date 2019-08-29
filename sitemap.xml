@@ -2,49 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://vinceperez.co/index.html</loc>
-    <lastmod>2018-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vinceperez.co/404.html</loc>
-    <lastmod>2017-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vinceperez.co/eyebleed.html</loc>
-    <lastmod>2017-06-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vinceperez.co/books.html</loc>
-    <lastmod>2017-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vinceperez.co/dogs.html</loc>
-    <lastmod>2018-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vinceperez.co/images/pigeon-1607316_1920.png</loc>
-    <lastmod>2018-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vinceperez.co/images/fennel-1311691_960_720.jpg</loc>
-    <lastmod>2018-03-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://vinceperez.co/images/giphy.gif</loc>
-    <lastmod>2018-03-03</lastmod>
+    <lastmod>2019-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
