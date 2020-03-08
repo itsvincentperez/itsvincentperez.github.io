@@ -1,18 +1,28 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="vinceperez.co" resolutions="1x" timestamp="1567049028900">
-  <folder name="images">
-    <file name="personal-03.png" crc="411888832" seo="true" ref="index"/>
-  </folder>
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vinceperez.co" resolutions="1x" timestamp="1583703618468">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3805528084" ref="index"/>
+    <file name="site_global.css" crc="369741917"/>
+    <file name="index.css" crc="3936451157" ref="index"/>
+    <file name="summoning.css" crc="3801817647" ref="summoning"/>
+    <file name="nomq_summoning.css" crc="3797381084" ref="summoning"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4148063285" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="172512987" ref="index"/>
-    <file name="jquery.watch.js" crc="437028206" ref="index"/>
-    <file name="require.js" crc="4159430777" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:summoning"/>
+    <file name="museutils.js" crc="3939489907" ref="index:summoning"/>
+    <file name="whatinput.js" crc="86476730" ref="index:summoning"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:summoning"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:summoning"/>
+    <file name="require.js" crc="4177726516" ref="index:summoning"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="summoning"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="summoning"/>
   </folder>
-  <file name="index.html" crc="4205824105" seo="true" mt="1567049010463" redirect="true"/>
+  <folder name="images">
+    <file name="city.png" crc="367723990" ref="summoning">
+      <caption webpage="summoning" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="city-u1555-fr.png" crc="4258351593" ref="summoning"/>
+    <file name="city-u1555-fr2.png" crc="63600982" ref="summoning"/>
+  </folder>
+  <file name="index.html" crc="3916857572" seo="true" mt="1583703101877" redirect="true"/>
+  <file name="summoning.html" crc="30250348" seo="true" mt="1583703526097" redirect="true"/>
 </manifest>
