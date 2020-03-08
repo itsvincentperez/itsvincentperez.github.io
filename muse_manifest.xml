@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vinceperez.co" resolutions="1x" timestamp="1583703618468">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vinceperez.co" resolutions="1x" timestamp="1583705071564">
   <folder name="css">
-    <file name="site_global.css" crc="369741917"/>
-    <file name="index.css" crc="3936451157" ref="index"/>
-    <file name="summoning.css" crc="3801817647" ref="summoning"/>
-    <file name="nomq_summoning.css" crc="3797381084" ref="summoning"/>
+    <file name="site_global.css" crc="28656784"/>
+    <file name="index.css" crc="435566907" ref="index"/>
+    <file name="summoning.css" crc="278564557" ref="summoning"/>
+    <file name="nomq_summoning.css" crc="4038848305" ref="summoning"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:summoning"/>
@@ -17,12 +17,13 @@
   </folder>
   <folder name="images">
     <file name="city.png" crc="367723990" ref="summoning">
-      <caption webpage="summoning" alt=""/>
       <caption webpage="untitled-4" alt=""/>
+      <caption webpage="summoning" alt=""/>
     </file>
     <file name="city-u1555-fr.png" crc="4258351593" ref="summoning"/>
-    <file name="city-u1555-fr2.png" crc="63600982" ref="summoning"/>
+    <file name="city-u1555-fr2.png" crc="457486014" ref="summoning"/>
+    <file name="u1709-6.png" crc="4098576715" ref="index"/>
   </folder>
-  <file name="index.html" crc="3916857572" seo="true" mt="1583703101877" redirect="true"/>
-  <file name="summoning.html" crc="30250348" seo="true" mt="1583703526097" redirect="true"/>
+  <file name="index.html" crc="517882608" seo="true" mt="1583704755956" redirect="true"/>
+  <file name="summoning.html" crc="4163648351" seo="true" mt="1583705061095" redirect="true"/>
 </manifest>
